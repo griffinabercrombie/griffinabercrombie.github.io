@@ -1,2 +1,2 @@
-# griffinabercrombie.github.io
+# http://griffinabercrombie.me/
 bomb website
