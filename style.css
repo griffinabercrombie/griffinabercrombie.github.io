@@ -1,0 +1,19 @@
+/* Sample Webpage Lab  style.css - Note that you need to fill this in yourself! */
+p {
+	text-align: center;
+	color: black;}
+body {background-color: aliceblue;}
+  
+
+
+p {
+	font-family: "Arial", Verdana, serif;
+}
+img.center {
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+table, th, td {
+    border: 1px solid black;}
+    
